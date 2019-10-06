@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  :1 ,
+  my_hash = {
+    :number
+  }
 end
 
 def pioneer
