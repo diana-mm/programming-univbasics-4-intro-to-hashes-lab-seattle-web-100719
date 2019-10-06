@@ -4,7 +4,8 @@ end
 
 def my_hash
   my_hash = {
-    :number
+    number: 4
+    animal: dog
   }
 end
 
