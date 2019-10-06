@@ -5,7 +5,7 @@ end
 def my_hash
   my_hash = {
     number: 4
-    animal: dog
+    animal: "dog"
   }
 end
 
